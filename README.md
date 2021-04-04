@@ -3,3 +3,5 @@ What is software architecture. The answer is multitiered. At the highest level, 
 
 <img src="https://bartoszkrajka.com/wp-content/uploads/2019/10/1_WZmVF9vJAyn8tO1g3lVa9w.png" width="450px" >
 <img src="https://miro.medium.com/max/606/1*yO6YGExWLJl5VOUL61xXvQ.jpeg" width="300px">
+
+### Princípio da Responsabilidade Única — SRP https://medium.com/@engnogueirawgn/princ%C3%ADpio-da-responsabilidade-%C3%BAnica-srp-f6cbf22330d6
